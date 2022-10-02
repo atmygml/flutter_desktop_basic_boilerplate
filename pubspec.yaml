@@ -39,7 +39,7 @@ dependencies:
       url: https://github.com/google/flutter-desktop-embedding.git
       path: plugins/window_size
       # Alternative link :-
-      # https://github.com/atmygml/flutter-desktop-embedding.git
+      # url: https://github.com/atmygml/flutter-desktop-embedding.git
       # path: plugins/window_size
 
 dev_dependencies:
